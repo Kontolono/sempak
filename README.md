@@ -1,0 +1,2 @@
+# sempak
+Bot.sh
